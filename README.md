@@ -34,8 +34,6 @@ An intuitive Expense Tracker application built using the MERN (MongoDB, Express.
    - Add the following environment variables:
      ```env
      MONGO_URI=<your_mongodb_connection_string>
-     JWT_SECRET=<your_jwt_secret>
-     ```
 
 5. **Run the application:**
 
